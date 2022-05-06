@@ -3,8 +3,8 @@
 using namespace std ;
 class Student{
 public:
-	char name[100][30];
-	int grade[100];
+	char name[30];
+	int grade;
 };
 int main()
 {
